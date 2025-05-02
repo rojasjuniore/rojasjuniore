@@ -1,5 +1,5 @@
 ## Hello World 👋 It's [Junior!](#)
-I'm a Full Stack developer with my ♥ in [Angular](https://angular.io/). 
+I'm a Smart Contract & Full Stack Developer with my ♥ in [Angular](https://angular.io/) and [Solidity](https://soliditylang.org/).
 
 <br/>
 
@@ -13,18 +13,18 @@ I'm a Full Stack developer with my ♥ in [Angular](https://angular.io/).
 <img align="left" alt="Junior Rojas Instagram" width="22px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=70c8ff" />
 </a>
 
-
 <br />
 
 <img align="right" alt="GIF" src="./me.png" width="240px" />
 
 <br />
 
-## What i'm up to
+## What I'm up to
 
-- 🔭 I’m currently working @ [BNF](https://www.bnf.ae/).
-- 🌱 I’m currently working with [Angular](https://angular.io/) and [Solidity](https://solidity-es.readthedocs.io/es/latest/#)
-- 👯 Owner of a Developer Community.
+- 🔭 Currently working at [Futswap](https://futswap.io/)
+- 🛠️ Founder & CEO at [IntechChain](https://intechchain.com/)
+- 💻 Focused on Smart Contracts, Blockchain Infrastructure & Angular
+- 👨‍💻 Building crypto tools and fintech products for LATAM
 
 <br />
 
@@ -36,3 +36,4 @@ I'm a Full Stack developer with my ♥ in [Angular](https://angular.io/).
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://avatars.githubusercontent.com/u/3171503?s=200&v=4"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+
