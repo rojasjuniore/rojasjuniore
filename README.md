@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://twitter.com/rojasjuniore"><img src="https://img.shields.io/badge/-@rojasjuniore-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="X / Twitter" /></a>
   <a href="https://www.linkedin.com/in/rojasjuniore/"><img src="https://img.shields.io/badge/-rojasjuniore-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/its.juniorrojas/"><img src="https://img.shields.io/badge/-its.juniorrojas-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.instagram.com/rojasjuniore/"><img src="https://img.shields.io/badge/-rojasjuniore-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 ---
